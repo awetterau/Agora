@@ -2,7 +2,7 @@
 
 Agora is a mobile application designed for organizations to share events with the public, track attendance, and facilitate communication among members. Built with Flutter and Firebase, it offers a platform for event management, messaging, and organizational hierarchy.
 
-![App Logo](https://via.placeholder.com/150)
+![App Logo](https://github.com/awetterau/Agora/blob/main/agora/ios/Runner/Assets.xcassets/AppIcon.appiconset/120.png)
 
 ## Features
 
@@ -17,10 +17,10 @@ Agora is a mobile application designed for organizations to share events with th
 
 <table>
   <tr>
-    <td><img src="https://via.placeholder.com/250" alt="Welcome Screen" /></td>
-    <td><img src="https://via.placeholder.com/250" alt="Events Screen" /></td>
-    <td><img src="https://via.placeholder.com/250" alt="New Event Screen" /></td>
-    <td><img src="https://via.placeholder.com/250" alt="Attendance Screen" /></td>
+    <td><img src="https://github.com/awetterau/Agora/blob/main/agora/ios/Runner/Assets.xcassets/Screenshots/WelcomeView.jpg" alt="Welcome Screen" /></td>
+    <td><img src="https://github.com/awetterau/Agora/blob/main/agora/ios/Runner/Assets.xcassets/Screenshots/EventsView.jpg" alt="Events Screen" /></td>
+    <td><img src="https://github.com/awetterau/Agora/blob/main/agora/ios/Runner/Assets.xcassets/Screenshots/CreateEventView.jpg" alt="New Event Screen" /></td>
+    <td><img src="https://github.com/awetterau/Agora/blob/main/agora/ios/Runner/Assets.xcassets/Screenshots/AttendanceView.jpg" alt="Attendance Screen" /></td>
   </tr>
 </table>
 
